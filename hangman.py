@@ -2,7 +2,7 @@ import random
 
 lettersGuessed = []
 
-words = open('D:\Desktop\Varun\projects\words.txt',
+words = open('words.txt',
              'r').read().lower().split()
 
 
